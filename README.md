@@ -72,4 +72,4 @@ npx cap sync
 npx cap open android  # or ios
 ```
 
-
+Developed by Christian Esposito: https://github.com/Frainaman/
