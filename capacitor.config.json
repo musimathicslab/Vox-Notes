@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "VoxToMIDI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "allowNavigation": ["*"],
+    "cleartext": true
+  }
+}
